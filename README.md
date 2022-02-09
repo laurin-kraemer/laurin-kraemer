@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**laurin-kraemer/laurin-kraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗺️ My previous work involved:
 
-Here are some ideas to get you started:
+- Extracting business insight out of data.
+- Finding data-driven solutions.
+- Building tools to automate the boring work.
+- Hosting traditional & decentralized websites.
+- Running cloud services on VPS & NAS-Server.
+- Retrofitting Sensors in old machinery.
+- Analyzing financial trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on 
+- Building Dapps, NFT-Collections & becoming a Social Entrepreneur.
+
+🌱 I’m currently digging deep into 
+- Web3 & Blockchain Technology
+
+👯 I’m looking to collaborate on ...
+- Projects that do well by doing good. 
+
+🤔 I’m looking for help with ...
+- Building nice looking frontends
+
+💬 Ask me about
+- Anything Crypto-related stuff
+- How to transform a non-smart production environment into a Smart Factory with Raspberry Pis.
+
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/laurin-kraemer
+- Twitter: https://twitter.com/laurinkraemer
+
+⚡ Favorite quote
+"I am not the best at everything, I just give my best at everything - Michael Jordan"
