@@ -8,13 +8,16 @@
 - Hosting traditional & decentralized websites.
 - Running cloud services on VPS & NAS-Server.
 - Retrofitting Sensors in old machinery.
+- Building Smart Factories with Raspberry Pis.
 - Analyzing financial trends
 
 🔭 I’m currently working on 
-- Building Dapps, NFT-Collections & becoming a Social Entrepreneur.
+- Building Dapps & NFT-Collections.
+- Becoming a Social Entrepreneur.
 
 🌱 I’m currently digging deep into 
-- Web3 & Blockchain Technology
+- Web3 & Blockchain Technology.
+- Data Science.
 
 👯 I’m looking to collaborate on ...
 - Projects that do well by doing good. 
@@ -23,8 +26,9 @@
 - Building nice looking frontends
 
 💬 Ask me about
-- Anything Crypto-related stuff
-- How to transform a non-smart production environment into a Smart Factory with Raspberry Pis.
+- Anything Crypto-related.
+- Raspberry Pis.
+- Water Scarcity 
 
 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/laurin-kraemer
