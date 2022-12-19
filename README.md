@@ -2,6 +2,8 @@
 
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
+
+[![](https://mermaid.ink/img/pako:eNpVkcFqhEAMhl8lzFlBrRTqra27UKin7aXgJThZd1jNlDEeZLvv3uhIYXMK-b8_CcnNdN6SqUyPLNIyaIiTgeDdszj28wSfhIEd91G1KHT0YUQB-NZImyat66hN1InzDCeZ7RJLb9hdaPAB_BkO3DsmCtoLfuGD7TxJcDg8CP9RYZ5AkeXPafaUZpqXe8sGJ6Gt4dExckc7Xqx4kaXZy4bny-NSr-zlQiEWv3C6guNV3KfppFJ9aV4AqLmwEcToAlkNkYSitCYxI-kRnNXb3Va0NcqN1JpKU4vh2pqW78rhLP60cGcqCTMlZv5ZT1g77AOOpjrjMGmVrBMfmviM7Sf3P6yHfP4?type=png)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkcFqhEAMhl8lzFlBrRTqra27UKin7aXgJThZd1jNlDEeZLvv3uhIYXMK-b8_CcnNdN6SqUyPLNIyaIiTgeDdszj28wSfhIEd91G1KHT0YUQB-NZImyat66hN1InzDCeZ7RJLb9hdaPAB_BkO3DsmCtoLfuGD7TxJcDg8CP9RYZ5AkeXPafaUZpqXe8sGJ6Gt4dExckc7Xqx4kaXZy4bny-NSr-zlQiEWv3C6guNV3KfppFJ9aV4AqLmwEcToAlkNkYSitCYxI-kRnNXb3Va0NcqN1JpKU4vh2pqW78rhLP60cGcqCTMlZv5ZT1g77AOOpjrjMGmVrBMfmviM7Sf3P6yHfP4)
 ```gantt
     title Continous Learning
     dateFormat  YYYY-MM-DD
