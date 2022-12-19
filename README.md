@@ -1,9 +1,8 @@
 ### Hi there 👋
 
----
-> I am not the best at everything, I just give my best at everything.
+> I am not the best at everything, I just give my best at everything. — Michael Jordan
 
-— Michael Jordan
+
 
 🗺️ My previous work involved:
 
