@@ -3,18 +3,7 @@
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
 
-[![](https://mermaid.ink/img/pako:eNpVkcFqhEAMhl8lzFlBrRTqra27UKin7aXgJThZd1jNlDEeZLvv3uhIYXMK-b8_CcnNdN6SqUyPLNIyaIiTgeDdszj28wSfhIEd91G1KHT0YUQB-NZImyat66hN1InzDCeZ7RJLb9hdaPAB_BkO3DsmCtoLfuGD7TxJcDg8CP9RYZ5AkeXPafaUZpqXe8sGJ6Gt4dExckc7Xqx4kaXZy4bny-NSr-zlQiEWv3C6guNV3KfppFJ9aV4AqLmwEcToAlkNkYSitCYxI-kRnNXb3Va0NcqN1JpKU4vh2pqW78rhLP60cGcqCTMlZv5ZT1g77AOOpjrjMGmVrBMfmviM7Sf3P6yHfP4?type=png)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkcFqhEAMhl8lzFlBrRTqra27UKin7aXgJThZd1jNlDEeZLvv3uhIYXMK-b8_CcnNdN6SqUyPLNIyaIiTgeDdszj28wSfhIEd91G1KHT0YUQB-NZImyat66hN1InzDCeZ7RJLb9hdaPAB_BkO3DsmCtoLfuGD7TxJcDg8CP9RYZ5AkeXPafaUZpqXe8sGJ6Gt4dExckc7Xqx4kaXZy4bny-NSr-zlQiEWv3C6guNV3KfppFJ9aV4AqLmwEcToAlkNkYSitCYxI-kRnNXb3Va0NcqN1JpKU4vh2pqW78rhLP60cGcqCTMlZv5ZT1g77AOOpjrjMGmVrBMfmviM7Sf3P6yHfP4)
-```gantt
-    title Continous Learning
-    dateFormat  YYYY-MM-DD
-    section Study
-    Bachelor of Engineering | Industrial Engineering          :a1, 2016-03-01, 4y
-    Master of Finance     :a2, 2020-09-01, 1y
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
-
-```
+[![](https://mermaid.ink/img/pako:eNpVkcFqwzAMhl9F-NyUJBtbl1vbrDBYTj2MQS5erKamiVxsGVa6vvuUJoxFJ-H_k_RbuqrGGVSFajUx1wQSbLlD2DpiSy4GeEftyVI7qkYz7pzvNQN8SiRVlZTlqAVs2DqCPUdzGZ82ujli5zy4A7xSawnRSy_4gTcyMbC3upsJf1HobAF5mj0l6UOSSv44tayW-2YJO0uaGpzQfEDzNElf7mg2QzcxSPsQYE26u7Btwqwq-181_8iH8yfA77NYQxk2imvrv2KYTIrB1WgQQDqsUjNCpcVjByUe8G5y4GRIPnH5c2rUQvUoe7RG1n8dqmrFR-yxVoWkRvtTrWq6Cacju_2FGlWwj7hQ8TxcobS69bpXxUF3QV7RWHa-Gu95P-vtF1LzjgQ?type=png)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkcFqwzAMhl9F-NyUJBtbl1vbrDBYTj2MQS5erKamiVxsGVa6vvuUJoxFJ-H_k_RbuqrGGVSFajUx1wQSbLlD2DpiSy4GeEftyVI7qkYz7pzvNQN8SiRVlZTlqAVs2DqCPUdzGZ82ujli5zy4A7xSawnRSy_4gTcyMbC3upsJf1HobAF5mj0l6UOSSv44tayW-2YJO0uaGpzQfEDzNElf7mg2QzcxSPsQYE26u7Btwqwq-181_8iH8yfA77NYQxk2imvrv2KYTIrB1WgQQDqsUjNCpcVjByUe8G5y4GRIPnH5c2rUQvUoe7RG1n8dqmrFR-yxVoWkRvtTrWq6Cacju_2FGlWwj7hQ8TxcobS69bpXxUF3QV7RWHa-Gu95P-vtF1LzjgQ)
 
 <details>
 <summary>My favorite languages</summary>
