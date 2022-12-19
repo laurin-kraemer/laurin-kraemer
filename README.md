@@ -4,13 +4,14 @@
 
 <details>
 <summary>My favorite languages</summary>
-
+\
 | Rank | Languages |
 |-----:|-----------|
 |     1| R / Python|
 |     2| Solidity  |
 |     3| SQL       |
 |     4| JavaScript|
+|     5| PowerShell|
   
 </details>
 
