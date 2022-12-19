@@ -3,7 +3,7 @@
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
 <details>
-<summary>My favorite languages</summary>
+<summary>My favorite languages 🚀</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -15,7 +15,8 @@
   
 </details>
 
-🗺️ My previous work involved:
+<details>
+<summary>My previous work 🗺️</summary>
 
 - Extracting business insight out of data.
 - Finding data-driven solutions.
@@ -25,14 +26,20 @@
 - Retrofitting Sensors in old machinery.
 - Building Smart Factories with Raspberry Pis.
 - Analyzing financial trends
+- Generative Art
+- Deploying Smart Contracts
+  
+</details>
 
 🔭 I’m currently working on 
 - Building Dapps & NFT-Collections.
 - Becoming a Social Entrepreneur.
+- Web3 & Blockchain Technology.
 
 🌱 I’m currently digging deep into 
-- Web3 & Blockchain Technology.
-- Data Science.
+- Data Science
+- Carbon Offset Token
+- Web development
 
 👯 I’m looking to collaborate on ...
 - Projects that do well by doing good. 
