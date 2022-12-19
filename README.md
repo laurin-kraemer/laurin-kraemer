@@ -2,6 +2,16 @@
 
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
+I’m currently working on 🔭
+- Building Dapps & NFT-Collections.
+- Becoming a Social Entrepreneur.
+- Web3 & Blockchain Technology.
+
+I’m currently digging deep into 🌱
+- Data Science
+- Carbon Offset Token
+- Web development
+
 <details>
 <summary>My favorite languages 🚀</summary>
 
@@ -31,25 +41,22 @@
   
 </details>
 
-🔭 I’m currently working on 
-- Building Dapps & NFT-Collections.
-- Becoming a Social Entrepreneur.
-- Web3 & Blockchain Technology.
+<details>
+<summary>I’m looking for collaborations in 👯</summary>
 
-🌱 I’m currently digging deep into 
-- Data Science
-- Carbon Offset Token
-- Web development
+- Building strong communities
+- Building phygital brands & services
+- Raising funds for healing hemp
+- Solving Climate by Carbon offset token
+- UI / UX
 
-👯 I’m looking to collaborate on ...
-- Projects that do well by doing good. 
+</details>
 
-🤔 I’m looking for help with ...
-- Building nice looking frontends
 
-💬 Ask me about
-- Anything Crypto-related.
-- Raspberry Pis.
+💬 Ask me anything about
+- Digital transformation & future of web3
+- Generating art collections
+- Condition Monitoring 
 - Water Scarcity 
 
 📫 How to reach me:
