@@ -2,12 +2,12 @@
 
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
-I’m currently working on 🔭
+🔭 I’m currently working on 
 - Building Dapps & NFT-Collections.
 - Becoming a Social Entrepreneur.
 - Web3 & Blockchain Technology.
 
-I’m currently digging deep into 🌱
+🌱 I’m currently digging deep into 
 - Data Science
 - Carbon Offset Token
 - Web development
