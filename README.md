@@ -2,7 +2,16 @@
 
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
+<details>
+<summary>My top languages</summary>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
 
 🗺️ My previous work involved:
 
