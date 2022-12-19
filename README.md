@@ -3,13 +3,14 @@
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
 <details>
-<summary>My top languages</summary>
+<summary>My favorite languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
+|     1| R / Python|
+|     2| Solidity  |
 |     3| SQL       |
+|     4| JavaScript|
   
 </details>
 
