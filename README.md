@@ -4,7 +4,7 @@
 
 <details>
 <summary>My favorite languages</summary>
-\
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| R / Python|
