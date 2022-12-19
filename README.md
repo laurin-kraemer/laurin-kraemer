@@ -2,6 +2,18 @@
 
 > I am not the best at everything, I just give my best at everything. — Michael Jordan
 
+```gantt
+    title Continous Learning
+    dateFormat  YYYY-MM-DD
+    section Study
+    Bachelor of Engineering | Industrial Engineering          :a1, 2016-03-01, 4y
+    Master of Finance     :a2, 2020-09-01, 1y
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
+
+```
+
 <details>
 <summary>My favorite languages</summary>
 
