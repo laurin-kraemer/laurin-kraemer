@@ -51,8 +51,6 @@
 - LinkedIn: https://www.linkedin.com/in/laurin-kraemer
 - Twitter: https://twitter.com/laurinkraemer
 
-
-# About Me
 ## Born & Raised in germany
 ```geojson
 {
